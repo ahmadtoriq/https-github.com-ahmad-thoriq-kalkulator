@@ -23,13 +23,13 @@
                         <div class="col"></div>
                         <div class="col">
                             <div class="mb-3">
-                                <input type="text" class="form-control" id="bil1" name="bil1" aria-describedby="bil1desc">
+                                <input type="number" class="form-control" id="bil1" name="bil1" aria-describedby="bil1desc" required>
                                 <div id="bil1desc" class="form-text" name=>Bilangan 1</div>
                             </div>
                         </div>
                         <div class="col">
                             <div class="mb-3">
-                                <input type="text" class="form-control" id="bil2" name="bil2" aria-describedby="bil2desc">
+                                <input type="number" class="form-control" id="bil2" name="bil2" aria-describedby="bil2desc" required>
                                 <div id="bil2desc" class="form-text">Bilangan 2</div>
                             </div>
                         </div>
